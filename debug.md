@@ -18,3 +18,4 @@
        }
        ```
        - breakpoints can help you find and fix bugs faster than the console.log() method.
+       - See [Pause Your Code With Breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints) to learn when and how to use each type.
