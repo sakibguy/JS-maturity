@@ -1,3 +1,5 @@
+Foundation of Debugging
+-----------------------
 1. Get Started with Debugging JavaScript in [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
    - Step 1: BUG Reproduce the bug
    - Step 2: SPUI Get familiar with the Sources panel UI
