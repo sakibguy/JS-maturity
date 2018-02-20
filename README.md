@@ -2,7 +2,6 @@ This project is a reference project where I am trying to demonstrate past experi
 
 How: Interactive Web and Mobile User Interface development
 ----------------------------------------------------------
----
 Rapid user interfaces Development and look & feel for Web, Android, iPhone are main challenges which needs to be overcome. We overcome these challenges by choosing set of tools and programming language that equally works for web, mobile development and mastering on it.
 
 In order to create user experience, We use to work with **React** and **React Native** for **Android** and **iPhone native UI development**. I have adopted functional style of programming with **immutable ds:** data structure (**Redux, GrapthQL**).
