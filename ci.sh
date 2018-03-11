@@ -64,8 +64,9 @@ echo
 ## CSE360: Change detected, uploading ...
 
 ## Create ud803
+## UPLOAD: module
 
-git commit -m "Upload changes: module structure"
+git commit -m "UPLOAD: module"
 
 ############
 # Step: 05 #
