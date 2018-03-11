@@ -2,6 +2,7 @@
 **Fundamentals of the JavaScript Syntax.** Learn the fundamentals of JavaScript, the most popular programming language in web development.
 
 # What You Will Learn #
+
 1. JavaScript?
 --------------
 - Explore the quirky history of the JavaScript language
