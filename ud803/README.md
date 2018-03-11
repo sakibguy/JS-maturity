@@ -37,6 +37,7 @@ Prerequisites and Requirements
 ------------------------------
 This course is ideal for beginners who are looking to add a new programming language to their toolbelt. JavaScript is also foundational for developers who want to pursue a career in web development. No prior experience is necessary for this course.
 
+
 Referrences
 -----------
 [tech-requirement](https://www.udacity.com/tech-requirements), [Source](https://www.udacity.com/course/intro-to-javascript--ud803)
