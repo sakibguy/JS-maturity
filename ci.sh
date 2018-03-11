@@ -65,7 +65,7 @@ echo
 
 ## Create ud803
 
-git commit -m "Create ud803"
+git commit -m "Upload changes"
 
 ############
 # Step: 05 #
