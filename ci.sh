@@ -65,7 +65,7 @@ echo
 
 ## Create ud803
 
-git commit -m "Upload changes"
+git commit -m "Upload changes: module structure"
 
 ############
 # Step: 05 #
