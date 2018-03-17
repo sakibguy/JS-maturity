@@ -18,7 +18,18 @@ Keynotes
    - The postLiked variable has a descriptive name about what it represents
 8. Quiz: Converting Temperatures (2-2)
 9. **TODO:** [String Index](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/397a5635-43bd-42d1-b181-179b2c902f67) Next goal
-10. Escaping Strings
+10. Escaping Strings: To use quotes inside a string ``` \ ```. 
+    - If you forget to use the backslash to escape characters, then the JavaScript engine can misinterpret your strings. ``` "The man whispered, "please speak to me."" ``` 
+     - By using the backslash to escape characters, the JavaScript engine can understand the meaning of your strings.
+```"The man whispered, \"please speak to me.\"" ```
+     - **Special characters**
+Quotes aren’t the only special characters that need to be escaped, there’s actually [quite a few](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Using_special_characters_in_strings). However, to keep it simple, here’s a list of some common special characters in JavaScript.
+       - newline \n and tab \t, are unique because they add additional whitespace to your Strings. A newline character will add a line break and a tab character will advance your line to the next [tab stop](https://en.wikipedia.org/wiki/Tab_stop).
+       - QUIZ QUESTION: Select the string that returns the following output: 
+         ``` "The file located at "C:\\Desktop\My Documents\Roster\names.txt" contains the names on the roster." ```
+       - Right answer is: ```"The file located at \"C:\\\\Desktop\\My Documents\\Roster\\names.txt\" contains the names on the roster."```
+
+"Up up\n\tdown down"
 11. Comparing Strings
 12. Quiz: Favorite Food (2-3)
 13. Quiz: String Equality for All (2-4)
