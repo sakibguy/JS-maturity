@@ -11,3 +11,16 @@ Keynotes
    - Browser built-in js engine
    - JS console: print string + executes lines of js code on the fly inside browser
    - Added styles and animation through JS
+     - Open the [following site](https://daringfireball.net/projects/markdown/) in a new tab and in that tab also open up developer tools. Then paste the following code:
+     ``` document.getElementsByTagName("h1")[0].style.color = "#ff0000";```
+   - Styling elements on the page is great, but you could also do that by just modifying the CSS. What makes JavaScript so special in this case? Refresh the page, then paste this line of code in the JavaScript console.
+```
+document.body.addEventListener('click', function () {
+     var myParent = document.getElementById("Banner"); 
+     var myImage = document.createElement("img");
+     myImage.src = 'https://thecatapi.com/api/images/get?format=src&type=gif';
+     myParent.appendChild(myImage);
+     myImage.style.marginLeft = "160px";
+});
+```
+If you’re confused because nothing happened. Don’t worry. Click somewhere on the page.
