@@ -18,7 +18,7 @@ Keynotes
    - The postLiked variable has a descriptive name about what it represents
 8. Quiz: Converting Temperatures (2-2)
 9. **TODO:** [String Index](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/397a5635-43bd-42d1-b181-179b2c902f67) Next goal
-10. Escaping Strings: To use quotes inside a string ``` \ ```. 
+10. Escaping Strings: To use quotes inside a string ``` \ ```
     - If you forget to use the backslash to escape characters, then the JavaScript engine can misinterpret your strings. ``` "The man whispered, "please speak to me."" ``` 
      - By using the backslash to escape characters, the JavaScript engine can understand the meaning of your strings.
 ```"The man whispered, \"please speak to me.\"" ```
@@ -28,8 +28,6 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
        - QUIZ QUESTION: Select the string that returns the following output: 
          ``` "The file located at "C:\\Desktop\My Documents\Roster\names.txt" contains the names on the roster." ```
        - Right answer is: ```"The file located at \"C:\\\\Desktop\\My Documents\\Roster\\names.txt\" contains the names on the roster."```
-
-"Up up\n\tdown down"
 11. Comparing Strings
 12. Quiz: Favorite Food (2-3)
 13. Quiz: String Equality for All (2-4)
