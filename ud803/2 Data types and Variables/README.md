@@ -17,8 +17,8 @@ Keynotes
 7. [Variables](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/d38fbf76-c43a-47dd-b031-b20397d6c283): Google's JavaScript StyleGuide [here](https://google.github.io/styleguide/jsguide.html), [all](https://github.com/sakib-rahman-bangladesh/styleguide)
    - The postLiked variable has a descriptive name about what it represents
 8. Quiz: Converting Temperatures (2-2)
-9. **TODO:** [String Index](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/397a5635-43bd-42d1-b181-179b2c902f67) Next goal
-10. Escaping Strings: To use quotes inside a string ``` \ ```
+9. **TODO:** [String Index](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/397a5635-43bd-42d1-b181-179b2c902f67) done
+10. **Escaping Strings:** To use quotes inside a string ``` \ ```
     - If you forget to use the backslash to escape characters, then the JavaScript engine can misinterpret your strings. ``` "The man whispered, "please speak to me."" ``` 
      - By using the backslash to escape characters, the JavaScript engine can understand the meaning of your strings.
 ```"The man whispered, \"please speak to me.\"" ```
@@ -38,7 +38,7 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
 13. Quiz: [String Equality](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/1094e5d1-4986-42e5-9777-fa43d269ec81) for All (2-4)
 14. Quiz: [All Tied Up](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5a82b56c-8c1e-40e4-acc9-cc396fbfb439) (2-5)
 15. Quiz: [Yosa Buson](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/69fa04db-4a01-443b-89f5-e60626379ef9) (2-6): ```var haiku = "Blowing from the west\n" + "Fallen leaves gather\n" + "In the east."; console.log(haiku);```
-16. Booleans
+16. **TODO:** [Booleans](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/de395b73-8bbc-4d13-85bb-9d3f75141ecd) Next goal
 17. Quiz: Facebook Post (2-7)
 18. Null, Undefined, and NaN
 19. Equality
