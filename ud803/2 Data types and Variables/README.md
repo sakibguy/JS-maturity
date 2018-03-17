@@ -35,9 +35,9 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
       - [QUIZ QUESTION](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/3c9feefc-71f8-4d03-97a2-97f9386a53fb): Enter each expression into the console. Check the ones that evaluate to true.
       - When checking if a string is "greater than" or "less than" another string, JavaScript compares individual characters using a numerical value. Each character is assigned a numerical value that essentially corresponds to the character's location in an [ASCII](https://www.ascii-code.com/) table
 12. Quiz: Favorite Food (2-3)
-13. Quiz: String Equality for All (2-4)
-14. Quiz: All Tied Up (2-5)
-15. Quiz: Yosa Buson (2-6)
+13. Quiz: [String Equality](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/1094e5d1-4986-42e5-9777-fa43d269ec81) for All (2-4)
+14. Quiz: [All Tied Up](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5a82b56c-8c1e-40e4-acc9-cc396fbfb439) (2-5)
+15. Quiz: [Yosa Buson](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/69fa04db-4a01-443b-89f5-e60626379ef9) (2-6): ```var haiku = "Blowing from the west\n" + "Fallen leaves gather\n" + "In the east."; console.log(haiku);```
 16. Booleans
 17. Quiz: Facebook Post (2-7)
 18. Null, Undefined, and NaN
