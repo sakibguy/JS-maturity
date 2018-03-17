@@ -28,7 +28,12 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
        - QUIZ QUESTION: Select the string that returns the following output: 
          ``` "The file located at "C:\\Desktop\My Documents\Roster\names.txt" contains the names on the roster." ```
        - Right answer is: ```"The file located at \"C:\\\\Desktop\\My Documents\\Roster\\names.txt\" contains the names on the roster."```
-11. Comparing Strings
+11. **Comparing Strings**
+      - Comparing strings: Another way to work with strings is by comparing them. You've seen the comparison operators == and != when you compared numbers for equality. You can also use them with strings! For example, let’s compare the string "Yes" to "yes". ```"Yes" == "yes"``` Returns: false
+      - When you run this in the console, it returns false. Why is that? "Yes" and "yes" are the same string, right? Well not quite.
+      - Case-sensitive: When you compare strings, case matters. While both string use the same letters (and those letters appear in the same order), the first letter in the first string is a capital Y while the first letter in the second string is a lowercase y. ``` 'Y' != 'y' ``` Returns: true
+      - [QUIZ QUESTION](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/3c9feefc-71f8-4d03-97a2-97f9386a53fb): Enter each expression into the console. Check the ones that evaluate to true.
+      - When checking if a string is "greater than" or "less than" another string, JavaScript compares individual characters using a numerical value. Each character is assigned a numerical value that essentially corresponds to the character's location in an [ASCII](https://www.ascii-code.com/) table
 12. Quiz: Favorite Food (2-3)
 13. Quiz: String Equality for All (2-4)
 14. Quiz: All Tied Up (2-5)
