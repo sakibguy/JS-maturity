@@ -53,5 +53,5 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
 21. Quiz: What's my Name? (2-9)
 22. Quiz: Out to Dinner (2-10)
 23. Quiz: Mad Libs (2-11)
-24. Quiz: One Awesome Message (2-12)
+24. **[FAILED](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/3c43abc9-d9c6-4e55-bceb-08b119fff788)** Quiz: One Awesome Message (2-12)
 25. Lesson 2 Summary
