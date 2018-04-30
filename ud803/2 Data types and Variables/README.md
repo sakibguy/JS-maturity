@@ -42,7 +42,7 @@ Quotes aren’t the only special characters that need to be escaped, there’s a
       
 17. Quiz: Facebook Post (2-7)
 18. Null, Undefined, and NaN
-19. Equality
+19. Equality: When testing for equality both implicit type coercion and strict equality can influence the result of the expression.
     1. Implicit type coercion: JavaScript is known as a loosely typed language.
        - Basically, this means that when you’re writing JavaScript code, you do not need to specify data types. Instead, when your code is interpreted by the JavaScript engine it will **automatically be converted** into the "appropriate" data type. This is called implicit type coercion. It’s behavior like this which makes JavaScript unique from other programming languages, but it can lead to some quirky behavior when doing operations and comparisons on mixed data types.
         - **DEFINITION:** A strongly typed language is a programming language that is more likely **<i>to generate errors if data does not closely match an expected type</i>**. Because JavaScript is loosely typed, you don’t need to specify data types; however, this **<i>can lead to errors that are hard to diagnose</i>** due to implicit type coercion.
